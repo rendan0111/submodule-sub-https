@@ -1,4 +1,4 @@
-BIN = hello 
+BIN = bin/hello 
 
 all: $(BIN)
 
